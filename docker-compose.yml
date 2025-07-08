@@ -1,0 +1,8 @@
+services:
+  gpc-buyer:
+    build: .
+    container_name: gpc-buyer
+    restart: always
+    volumes:
+      - ./data:/app/data
+      - ./config.ini:/app/config.ini
