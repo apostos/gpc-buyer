@@ -1,4 +1,4 @@
-# GPC Buyer
+# GPC Buyer (Gift Price Check buyer)
 
 
 
