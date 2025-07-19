@@ -1,2 +1,3 @@
-py ../main.py
+cd ../
+py main.py
 pause
